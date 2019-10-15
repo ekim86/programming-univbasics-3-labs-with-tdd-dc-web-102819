@@ -1,2 +1,2 @@
-first_number = 1
-second_number = 2
+it "contains a local variable called first_number that is assigned to a number" do
+end
